@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Indu P
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fullstack Development 
+- 🌱 I’m currently learning Angular and Springboot
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 
 <!---
